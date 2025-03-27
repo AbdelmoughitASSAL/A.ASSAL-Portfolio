@@ -44,3 +44,8 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
 
 ## Contacts
 - LinkedIn: [@abdelmoughit-assal](https://www.linkedin.com/in/abdelmoughit-assal/)
+- Email : abdelmoughit.assal@yahoo.com
+<div align="left"> 
+  <a href = "mailto:abdelmoughit.assal@yahoo.com"><img src="https://img.shields.io/badge/Yahoo%20mail-6D4AFF?style=for-the-badge&logo=yahoomail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/abdelmoughit-assal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
