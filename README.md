@@ -28,17 +28,17 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
 ## Projets de Portfolio
 
 ### Trading Automatisé - Fraction de Kelly
-  **Code** - [Trading Automatisé - Fraction de Kelly](https://github.com/AbdelmoughitASSAL/Projets-de-Portfolio/blob/main/Trading%20Automatis%C3%A9%20-%20Cas%20de%20Money%20Management%20(Fraction%20de%20Kelly).ipynb)
+  - **Code** - [Trading Automatisé - Fraction de Kelly](https://github.com/AbdelmoughitASSAL/Projets-de-Portfolio/blob/main/Trading%20Automatis%C3%A9%20-%20Cas%20de%20Money%20Management%20(Fraction%20de%20Kelly).ipynb)
 
-  **Description**
+  - **Description**
 
   Ce projet présente une approche de Money Management dans le cadre d'un système de trading automatisé. Le système repose sur l'utilisation de la fraction de Kelly pour déterminer la taille optimale des positions afin de maximiser la croissance du capital tout en contrôlant le risque.
 
-  **Compétences**
+  - **Compétences**
   
   *Money Management ,Trading Algorithmique , Prétraitement des données, Analyse de données , Visualisation des données*
     
-  **Technologies**
+  - **Technologies**
 
   *Python ,Pandas ,NumPy, Matplotlib, scikit-learn – MinMaxScaler*
 
