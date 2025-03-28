@@ -6,7 +6,7 @@ Grâce à mon parcours académique et mes expériences en marketing digital, j'a
 
 Toujours curieux, je suis constamment à l'affût de nouvelles techniques et outils pour affiner mes compétences. Que ce soit en équipe ou en solo, je suis motivé par l'idée de transformer les données en solutions concrètes.
 
-Je suis prêt à relever de nouveaux défis en tant que Data Analyst et à contribuer activement à des projets innovants. 🚀
+Je suis prêt à relever de nouveaux défis en tant que Data Analyst et à contribuer activement à des projets innovants.
 
 Ce dépôt a pour objectif de présenter mes compétences, de partager mes projets et de suivre ma progression dans les domaines de l'analyse de données et de la data science
 
