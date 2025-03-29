@@ -27,8 +27,8 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
 
 ## Projets de Portfolio
 
-### Trading Automatisé - Fraction de Kelly
-  - **Code** - [Trading Automatisé - Fraction de Kelly](https://github.com/AbdelmoughitASSAL/Projets-de-Portfolio/blob/main/Trading%20Automatis%C3%A9%20-%20Cas%20de%20Money%20Management%20(Fraction%20de%20Kelly).ipynb)
+### Trading Automatisé - Money Management
+  - **Code** - [Trading Automatisé - Money Management](https://github.com/AbdelmoughitASSAL/Trading-Automatise-Money-Management)
 
   - **Description**
 
