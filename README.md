@@ -27,7 +27,7 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
 
 ## Projets de Portfolio
 
-### Trading Automatisé - Money Management
+### Trading Automatisé - Money Management 
   - **Code** - [Trading Automatisé - Money Management](https://github.com/AbdelmoughitASSAL/Trading-Automatise-Money-Management)
 
   - **Description**
@@ -41,7 +41,25 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
   - **Technologies**
 
   *Python ,Pandas ,NumPy, Matplotlib, scikit-learn – MinMaxScaler*
+  
+### Tableau de bord des ventes 
+  - **Code** - [Tableau de bord des ventes](https://github.com/AbdelmoughitASSAL/Analyse_des_ventes_2022_SQL)
 
+  - **Description**
+
+  Ce projet consiste à concevoir un tableau de bord interactif pour l’analyse des ventes. Il inclut la création de mesures et de calendrier avec DAX, l’importation des données depuis SQL et la conception visuelle avec PowerPoint. L'objectif est d'identifier les tendances de vente et les produits performants.
+  
+  - **Compétences**
+  
+  *Modélisation de données, Analyse des ventes, Visualisation des données, SQL, Power BI, DAX*
+    
+  - **Technologies**
+
+  *Power BI, SQL, PowerPoint, DAX*
+  
+  - **À venir bientôt : Analyse des données avec Python**
+    
+    *Dans un futur proche, je vais partager une version Python du projet, où les mêmes données seront analysées, mais cette fois avec des outils Python. Restez connecté pour découvrir cette version complémentaire !*
 ## Contacts
 - LinkedIn: [@abdelmoughit-assal](https://www.linkedin.com/in/abdelmoughit-assal/)
 - Email : abdelmoughit.assal@yahoo.com
