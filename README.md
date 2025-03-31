@@ -27,7 +27,7 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
 
 ## Projets de Portfolio
 
-### Trading Automatisé - Money Management 
+### ✅ Trading Automatisé - Money Management 
   - **Code** - [Trading Automatisé - Money Management](https://github.com/AbdelmoughitASSAL/Trading-Automatise-Money-Management)
 
   - **Description**
@@ -42,7 +42,7 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
 
   *Python ,Pandas ,NumPy, Matplotlib, scikit-learn – MinMaxScaler*
   
-### Tableau de bord des ventes 
+### ✅ Tableau de bord des ventes : Analyse des données (2022)
   - **Code** - [Tableau de bord des ventes](https://github.com/AbdelmoughitASSAL/Analyse_des_ventes_2022_SQL)
 
   - **Description**
@@ -60,6 +60,41 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
   - **À venir bientôt : Analyse des données avec Python**
     
     *Dans un futur proche, je vais partager une version Python du projet, où les mêmes données seront analysées, mais cette fois avec des outils Python. Restez connecté pour découvrir cette version complémentaire !*
+
+### ✅ Tableau de Bord RH : Analyse des données (2006-2018)
+
+*Optimisation de la gestion des ressources humaines grâce à la data !*
+
+  -**Aperçu du projet**  
+
+  - **Code** - [Tableau de bord RH ](https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18)
+
+  - **Description**
+  - 
+    Ce projet explore l’analyse des données RH de 2006 à 2018 en utilisant **Power BI et DAX**. L'objectif est d’identifier les tendances clés liées à l'emploi, la performance, la satisfaction des employés et les coûts salariaux, afin d’optimiser la gestion des talents en entreprise.
+    
+  **Que montre ce tableau de bord ?**  
+  
+✔ *Répartition des employés par **statut, genre et département*  
+✔ *Taux de rétention et d'attrition*  
+✔ *Performance & satisfaction des employés*  
+✔ *Sources de recrutement les plus efficaces*  
+✔ *Analyse des coûts salariaux par département* 
+
+  - **Compétences**
+  
+   *DAX, Power BI, Modélisation des données, Visualisation, Analyse RH, Data Storytelling*
+    
+  - **Technologies**
+
+  *Power BI, SQL, PowerPoint, DAX*
+  
+  - **Et après ? Analyse Python en préparation !**
+   
+      📌 *Prochaine étape* : Réaliser la même étude en **Python** !  
+🔎 Pourquoi ? Pour aller encore plus loin en automatisation et en flexibilité avec **Pandas, NumPy et Matplotlib*.
+
+📢 *L'apprentissage est un trésor qui suit son propriétaire partout.*  
 ## Contacts
 - LinkedIn: [@abdelmoughit-assal](https://www.linkedin.com/in/abdelmoughit-assal/)
 - Email : abdelmoughit.assal@yahoo.com
