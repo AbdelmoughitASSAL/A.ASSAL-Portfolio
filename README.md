@@ -88,12 +88,18 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
   - **Technologies**
 
   *Power BI, SQL, PowerPoint, DAX*
-  
-  - **Et après ? Analyse Python en préparation !**
-   
-      📌 *Prochaine étape* : Réaliser la même étude en **Python** !  
-🔎 Pourquoi ? Pour aller encore plus loin en automatisation et en flexibilité avec **Pandas, NumPy et Matplotlib*.
 
+  
+  - **🔄 Mise à jour du projet : 04/04/2025**
+    
+    ✅ Analyse des données avec Python :
+    
+    Première version de l’analyse réalisée avec Pandas, NumPy, Matplotlib, Seaborn, GeoPandas et Plotly Express. Cette approche permet un traitement efficace des données, mais reste limitée en interactivité,           contrairement à Power BI
+    
+      📌 *Prochaine étape* : je vais reproduire cette analyse avec Python **Python** !
+    
+    Afin de bénéficier d’une flexibilité renforcée, d’une automatisation plus poussée et d’une meilleure capacité à traiter de grandes volumétries de données.
+    
 📢 *L'apprentissage est un trésor qui suit son propriétaire partout.*  
 ## Contacts
 - LinkedIn: [@abdelmoughit-assal](https://www.linkedin.com/in/abdelmoughit-assal/)
