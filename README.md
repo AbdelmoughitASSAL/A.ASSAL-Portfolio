@@ -96,10 +96,10 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
     
     Première version de l’analyse réalisée avec Pandas, NumPy, Matplotlib, Seaborn, GeoPandas et Plotly Express. Cette approche permet un traitement efficace des données, mais reste limitée en interactivité,           contrairement à Power BI
     
-      📌 *Prochaine étape* : je vais reproduire cette analyse avec Python **Python** !
+      📌 *Prochaine étape* : je vais reproduire cette analyse avec **Python** !
     
-    Afin de bénéficier d’une flexibilité renforcée, d’une automatisation plus poussée et d’une meilleure capacité à traiter de grandes volumétries de données.
-    
+Cependant, cette version reste limitée par l'absence d'interactivité, à la différence de Power BI. Prochainement, je vais reproduire l’analyse avec Python afin de bénéficier d’une flexibilité accrue, d’une automatisation avancée et d’une gestion optimisée des données volumineuses.
+
 📢 *L'apprentissage est un trésor qui suit son propriétaire partout.*  
 ## Contacts
 - LinkedIn: [@abdelmoughit-assal](https://www.linkedin.com/in/abdelmoughit-assal/)
