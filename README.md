@@ -51,7 +51,7 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
   
   - **Compétences**
   
-  *Modélisation de données, Analyse des ventes, Visualisation des données, SQL, Power BI, DAX*
+  *Modélisation de données, Analyse des ventes, Visualisation des données, SQL, Power BI, DAX *
     
   - **Technologies**
 
@@ -70,35 +70,32 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
   - **Code** - [Tableau de bord RH ](https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18)
 
   - **Description**
-  - 
-    Ce projet explore l’analyse des données RH de 2006 à 2018 en utilisant **Power BI et DAX**. L'objectif est d’identifier les tendances clés liées à l'emploi, la performance, la satisfaction des employés et les coûts salariaux, afin d’optimiser la gestion des talents en entreprise.
-    
-  **Que montre ce tableau de bord ?**  
-  
-✔ *Répartition des employés par **statut, genre et département*  
-✔ *Taux de rétention et d'attrition*  
-✔ *Performance & satisfaction des employés*  
-✔ *Sources de recrutement les plus efficaces*  
-✔ *Analyse des coûts salariaux par département* 
 
+    Ce projet explore l’analyse des données RH de 2006 à 2018 en utilisant **Power BI et DAX**. L'objectif est d’identifier les tendances clés liées à l'emploi, la performance, la satisfaction des employés et les coûts salariaux, afin d’optimiser la gestion des talents en entreprise.
+
+- **Le projet comprend trois versions complémentaires :**
+
+  *📌 Version 1 – Power BI (avec DAX)*
+  
+  Création d’un tableau de bord interactif avec DAX pour visualiser les indicateurs clés RH (performance, satisfaction, répartition, attrition, etc.).
+
+  *📌 Version 2 – Analyse avec Python (non interactive)*
+  
+  Reproduction de l’analyse avec Pandas, Matplotlib, Seaborn, etc. pour une automatisation et une flexibilité accrues, mais sans interactivité.
+
+    *🔎 Limite constatée : Absence d’interactivité, contrairement à Power BI*
+  
+  *📌 Version 3 – Python interactif + étude de corrélation*
+
+  Amélioration avec Streamlit pour intégrer l’interactivité, des filtres dynamiques, et un tableau de corrélation pour étudier les relations entre variables.
+    
   - **Compétences**
   
-   *DAX, Power BI, Modélisation des données, Visualisation, Analyse RH, Data Storytelling*
-    
-  - **Technologies**
+   *DAX, Power BI, Modélisation des données, Visualisation, Analyse RH, Data Storytelling, Python, Pandas, Matplotlib, Seaborn, GeoPandas, Plotly Express, Streamlit*
 
-  *Power BI, SQL, PowerPoint, DAX*
+**🎯 Objectif global :**
 
-  
-  - **🔄 Mise à jour du projet : 04/04/2025**
-    
-    ✅ Analyse des données avec Python :
-    
-    Première version de l’analyse réalisée avec Pandas, NumPy, Matplotlib, Seaborn, GeoPandas et Plotly Express. Cette approche permet un traitement efficace des données, mais reste limitée en interactivité,           contrairement à Power BI
-    
-      📌 *Prochaine étape* : je vais reproduire cette analyse avec **Python** !
-    
-Cependant, cette version reste limitée par l'absence d'interactivité, à la différence de Power BI. Prochainement, je vais reproduire l’analyse avec Python afin de bénéficier d’une flexibilité accrue, d’une automatisation avancée et d’une gestion optimisée des données volumineuses.
+*Combiner la visualisation interactive de Power BI et la puissance analytique de Python pour une analyse RH complète, évolutive et orientée décision.*
 
 📢 *L'apprentissage est un trésor qui suit son propriétaire partout.*  
 ## Contacts
