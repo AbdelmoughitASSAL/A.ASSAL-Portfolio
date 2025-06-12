@@ -34,6 +34,7 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
 
   Ce projet présente une approche de Money Management dans le cadre d'un système de trading automatisé. Le système repose sur l'utilisation de la fraction de Kelly pour déterminer la taille optimale des positions afin de maximiser la croissance du capital tout en contrôlant le risque.
 
+
   - **Compétences**
   
   *Money Management ,Trading Algorithmique , Prétraitement des données, Analyse de données , Visualisation des données*
