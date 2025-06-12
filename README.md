@@ -40,7 +40,7 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
     
   - **Technologies**
 
-  *Python ,Pandas ,NumPy, Matplotlib, scikit-learn – MinMaxScaler*
+  *Python ,Pandas ,NumPy, Matplotlib, scikit-learn – MinMaxScaler* 
 
 ## Contacts
 - LinkedIn: [@abdelmoughit-assal](https://www.linkedin.com/in/abdelmoughit-assal/)
