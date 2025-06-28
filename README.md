@@ -58,6 +58,23 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
 
   *Python ,Pandas ,NumPy, Matplotlib, scikit-learn – MinMaxScaler*
 
+### ✅ Analyse des ventes 2022 – SQL & Data Visualisation
+ 
+  - **Code** - [Analyse des ventes 2022](https://github.com/AbdelmoughitASSAL/Trading-Automatise-Money-Management)
+
+  - **Description**
+
+  Ce projet illustre une analyse complète des ventes de l’année 2022 à l’aide du langage SQL. Il permet d’identifier les produits les plus performants, les tendances mensuelles, les clients clés et les régions à fort potentiel. L’accent est mis sur l’extraction d’insights pertinents à partir de bases de données relationnelles dans un contexte business.
+
+
+  - **Compétences**
+  
+  *Analyse commerciale, Requêtes SQL, Segmentation clients, KPIs de vente, Extraction d’indicateurs décisionnels*
+    
+  - **Technologies**
+
+  *SQL, MySQL, Power BI (pour visualisation finale)*
+
 ## Contacts
 - LinkedIn: [@abdelmoughit-assal](https://www.linkedin.com/in/abdelmoughit-assal/)
 - Email : abdelmoughit.assal@yahoo.com
