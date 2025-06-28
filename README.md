@@ -34,9 +34,9 @@ Ce dépôt a pour objectif de présenter mes compétences, de partager mes proje
 
   Ce projet propose une triple version d'un tableau de bord RH conçu pour explorer et visualiser les données relatives aux employés. Il permet d’analyser des indicateurs clés tels que l’ancienneté, la satisfaction, le turnover et les promotions. Les versions incluent : une première réalisée avec Power BI, une deuxième en Python (analyse statique), et une troisième utilisant Streamlit pour une visualisation interactive et dynamique avec étude de corrélations
 
-    - **Compétences**
+  - **Compétences**
 
-    *Analyse RH, Visualisation de données, Statistiques descriptives, Analyse exploratoire, Automatisation, Interactivité*
+  *Analyse RH, Visualisation de données, Statistiques descriptives, Analyse exploratoire, Automatisation, Interactivité*
 
   - **Technologies**
 
