@@ -1,300 +1,206 @@
-# ✨ Abdelmoughit ASSAL | Data Analyst & Business Intelligence Specialist
+# Abdelmoughit ASSAL | Data Analyst & Business Intelligence Specialist
 
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6D4AFF&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+compelling+stories;Transforming+numbers+into+strategic+insights;Building+bridges+between+data+and+decisions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+Data+Analytics+Portfolio!;Turning+Data+into+Actionable+Insights;Power+BI+%E2%9A%A1%EF%B8%8F+Python+%F0%9F%90%8D+SQL+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🎯 **Professional Journey**
-
+## 📋 Table of Contents
+<!-- Table of Contents Animation -->
 <div align="center">
-
-```mermaid
-timeline
-    title My Data Journey
-    2017 : Baccalaureate in<br>Life Sciences
-    2022 : Bachelor's in<br>Economics & Management
-    2024 : Master's in<br>Decision Engineering
-    Today : Building Data Solutions<br>That Create Impact
-```
+  
+| Section | Quick Links |
+|---------|-------------|
+| **👤 About** | [Profile](#-about-me) |
+| **🎓 Education** | [Academic Background](#-education) |
+| **🛠️ Skills** | [Technical Stack](#-technical-stack) |
+| **🚀 Projects** | [Portfolio Showcase](#-featured-projects) |
+| **📬 Contact** | [Get in Touch](#-connect-with-me) |
 
 </div>
 
-## 🌟 **Why Data Analytics?**
+## 👤 About Me
 
 <div align="center">
   
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=From+Numbers+→+To+Narratives+→+To+Impact" alt="Process animation" />
-</p>
-
-| 📊 Raw Data | 🔄 | 📈 Insights | 🔄 | 💡 Decisions |
-|-------------|---|--------------|---|----------|
-| 🎯 Business Questions | 🔄 | 🧠 Analysis | 🔄 | 🚀 Solutions |
-
+![Profile Banner](https://komarev.com/ghpvc/?username=AbdelmoughitASSAL&color=blue&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/AbdelmoughitASSAL?style=social)
+  
 </div>
 
----
-
-## 🎓 **Education Pathway**
-
-<div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=From+Scientific+Foundation+to+Engineering+Excellence" alt="Education journey" />
-</p>
-</div>
-
-| Institution | Degree | Year | Key Focus |
-|------------|--------|------|-----------|
-| **Hassan I University, Settat** | 🎖️ **Master's in Decision Engineering** | 2024 | *Optimization, Predictive Modeling, Business Intelligence* |
-| **Moulay Ismail University, Meknes** | 📘 **Bachelor's in Economics & Management** | 2022 | *Economic Analysis, Statistical Methods, Market Dynamics* |
-| **Manfaloty High School, Meknes** | 🧬 **Baccalaureate in Life Sciences** | 2017 | *Scientific Method, Analytical Thinking* |
-
----
-
-## 🏆 **Certifications & Continuous Learning**
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Foundational<br>Knowledge] --> B[Python<br>Data Science]
-    B --> C[Practical<br>Projects]
-    C --> D[Real-World<br>Impact]
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Abdelmoughit ASSAL"
+        self.title = "Data Analyst | BI Specialist"
+        self.location = "Morocco"
+        self.status = "Seeking Opportunities"
+        self.passion = "Data Storytelling & Business Intelligence"
     
-    style A fill:#e1f5fe
-    style B fill:#bbdefb
-    style C fill:#90caf9
-    style D fill:#64b5f6
+    def skills(self):
+        return ["Data Visualization", "Statistical Analysis", 
+                "Dashboard Development", "SQL Queries", 
+                "Python Automation", "Business Insights"]
+    
+    def tools(self):
+        return {
+            "BI Tools": ["Power BI", "Tableau"],
+            "Programming": ["Python", "SQL"],
+            "Libraries": ["Pandas", "NumPy", "Matplotlib", "Streamlit"],
+            "Databases": ["MySQL", "PostgreSQL"]
+        }
+    
+    def motto(self):
+        return "Transforming raw data into strategic decisions."
+
+analyst = DataAnalyst()
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=FF9800&center=true&vCenter=true&width=400&lines=Always+Learning%2C+Always+Growing" alt="Learning motto" />
-</p>
+## 🎓 Education
 
-**Latest Achievement:**  
-![Python for Data Science](https://img.shields.io/badge/CERTIFIED-Python_Data_Science-blue?style=for-the-badge&logo=python)
-[📜 View Certificate](https://coursera.org/share/983e3921c341ce3abeed69a864f0c7e0)
-
-</div>
-
----
-
-## 🚀 **Featured Projects Showcase**
-
-<div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=6D4AFF&center=true&vCenter=true&width=700&lines=Where+Data+Meets+Impact;Real+Projects%2C+Measurable+Results" alt="Projects intro" />
-</p>
-</div>
-
-### 🔍 **Project 1: HR Analytics Dashboard Suite**
-```diff
-+ Multi-Platform Solution | Real Employee Insights | Actionable HR Metrics
-```
-
-<div align="center">
-
-| **Power BI** | **Python** | **Streamlit** |
-|-------------|-----------|--------------|
-| 📊 Interactive Dashboards | 🐍 Deep Analysis | 🌐 Web App |
-| 👥 Stakeholder Reports | 📈 Advanced Visualizations | 🔍 Real-time Filters |
-| ⚡ Fast Deployment | 🧮 Statistical Models | 🤝 User Interaction |
-
-</div>
-
-<div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Impact:+70%+faster+reporting+with+deeper+insights" alt="HR impact" />
-</p>
-</div>
-
-### 💹 **Project 2: Algorithmic Trading System**
-```diff
-+ Risk-Managed Trading | Kelly Criterion | Capital Growth Optimization
-```
-
+<!-- Animated Education Timeline -->
 <div align="center">
   
+| 🎯 Degree | 🏫 Institution | 📅 Year | 📊 Focus Areas |
+|-----------|----------------|---------|----------------|
+| **Master in Decision Engineering** | Hassan Premier University, Settat | 2024 | Data Analytics, Optimization, BI |
+| **Bachelor in Economics & Management** | Moulay Ismail University, Meknes | 2022 | Statistics, Econometrics, Finance |
+| **High School Diploma** | Lycée Manfaloty, Meknes | 2017 | Mathematics, Sciences |
+
+</div>
+
+## 🛠️ Technical Stack
+
+<!-- Animated Skills Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=System+Flow:+Data→Risk→Sizing→Performance" alt="Trading flow" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=black" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=black" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=black" alt="Excel" />
 </p>
 
-```
-📈 Market Data → 🧠 Risk Analysis → ⚖️ Position Sizing → 📊 Performance Tracking
-      ↓              ↓                  ↓                   ↓
-   Raw Inputs  →  Risk Metrics  →  Optimal Bets  →  Growth Visualization
-```
+## 🚀 Featured Projects
 
-</div>
-
+<!-- Project Cards with Animation -->
 <div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Achievement:+Consistently+outperforms+fixed+strategies" alt="Trading achievement" />
-</p>
-</div>
+  
+### 📊 **HR Analytics Dashboard** | *June 2024*
+![HR Dashboard](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Version](https://img.shields.io/badge/Version-3.0-blue)
+![Stars](https://img.shields.io/github/stars/AbdelmoughitASSAL/HR_Dashboard_06_18?style=social)
 
-### 📊 **Project 3: Sales Intelligence Platform**
-```diff
-+ SQL-Powered Analysis | Multi-dimensional Insights | Executive Dashboards
-```
+**Multi-platform HR analytics solution** - Power BI + Python + Streamlit
 
-<div align="center">
-
-```mermaid
-pie title Sales Analysis Dimensions
-    "Product Performance" : 30
-    "Customer Segments" : 25
-    "Temporal Trends" : 25
-    "Regional Analysis" : 20
-```
-
-</div>
-
-<div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Result:+Identified+15%+growth+potential+in+3+regions" alt="Sales result" />
-</p>
-</div>
-
----
-
-## 🛠️ **Technical Arsenal**
-
-<div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=My+Tools+of+the+Trade" alt="Tools intro" />
-</p>
-</div>
-
-<div align="center">
-
-| **Category** | **Tools & Technologies** | **Proficiency** |
-|--------------|-------------------------|----------------|
-| 📊 **Visualization** | Power BI, Matplotlib, Seaborn, Plotly | ⭐⭐⭐⭐⭐ |
-| 🐍 **Programming** | Python (Pandas, NumPy), SQL, DAX | ⭐⭐⭐⭐⭐ |
-| 📈 **Analysis** | Statistical Analysis, EDA, Predictive Modeling | ⭐⭐⭐⭐☆ |
-| 🗄️ **Databases** | MySQL, PostgreSQL, Data Modeling | ⭐⭐⭐⭐☆ |
-| 🚀 **Deployment** | Streamlit, Git, Jupyter, Excel | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-
-## 🌈 **My Analytical Philosophy**
-
-<div align="center">
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=400&lines=From+Data+to+Impact:+My+Process" alt="Process philosophy" />
-</p>
-
-```mermaid
-graph TB
-    A[📥 Data Collection] --> B[🧹 Data Cleaning]
-    B --> C[🔍 Exploratory Analysis]
-    C --> D[📊 Visualization]
-    D --> E[💡 Insight Generation]
-    E --> F[📈 Business Impact]
-    
-    style A fill:#ffebee
-    style B fill:#fce4ec
-    style C fill:#f3e5f5
-    style D fill:#e8eaf6
-    style E fill:#e3f2fd
-    style F fill:#e8f5e8
-```
-
-</div>
-
----
-
-## 📬 **Let's Connect & Collaborate**
-
-<div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1500&color=6D4AFF&center=true&vCenter=true&width=500&lines=Ready+to+Build+Something+Amazing%3F" alt="Connect invitation" />
-</p>
-</div>
-
-<div align="center">
-
-| **Platform** | **Link** | **Best For** |
-|-------------|----------|-------------|
-| 💼 **LinkedIn** | [@abdelmoughit-assal](https://www.linkedin.com/in/abdelmoughit-assal/) | Professional Networking |
-| 📧 **Email** | abdelmoughit.assal@yahoo.com | Project Discussions |
-| 🐙 **GitHub** | [@AbdelmoughitASSAL](https://github.com/AbdelmoughitASSAL) | Code Collaboration |
-
-</div>
-
-<div align="center">
-  <a href="mailto:abdelmoughit.assal@yahoo.com">
-    <img src="https://img.shields.io/badge/Send_Email-6D4AFF?style=for-the-badge&logo=mail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/abdelmoughit-assal">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/AbdelmoughitASSAL">
-    <img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
----
-
-<div align="center">
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=700&lines=🌟+Exploring+Advanced+ML+in+Business+Intelligence;🎯+Building+Real-time+Analytics+Pipelines;📈+Tracking+Insights+That+Turn+Into+Actions" alt="Current focus" />
-</p>
-
-*"Not just analyzing data, but architecting understanding"*
-
-</div>
-
----
-
-<details>
-<summary>📈 View Activity Metrics</summary>
-
-<br>
-
-<div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=2196F3&center=true&vCenter=true&width=400&lines=Current+Development+Pulse" alt="Activity pulse" />
-</p>
-</div>
-
-**Recent Project Activity:**
 ```bash
-📁 Portfolio Updates:      ✅ Weekly
-🧠 New Skills:            ⏳ In Progress
-🚀 Project Deployments:   📅 Monthly
-📚 Learning Hours:        15+/week
+✨ Features: Employee Analytics • Turnover Prediction • Interactive Dashboards
 ```
-
-**GitHub Stats Preview:**
-```
-🎯 Commits this month:  25+
-🌟 Projects Active:     3
-🔄 Last Update:         Recent
-📊 Languages:          Python, SQL, DAX
-```
-
-</details>
+[🚀 View Project](https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18)
 
 ---
 
+### 📈 **Automated Trading System** | *May 2024*
+![Trading](https://img.shields.io/badge/Algorithmic-Trading-orange)
+![Risk](https://img.shields.io/badge/Risk_Management-red)
+
+**Money Management with Kelly Criterion** - Python, NumPy, Scikit-learn
+
+```bash
+📈 Features: Position Sizing • Risk Optimization • Performance Backtesting
+```
+[🚀 View Project](https://github.com/AbdelmoughitASSAL/Trading-Automatise-Money-Management)
+
+---
+
+### 💰 **Sales Analysis 2022** | *April 2024*
+![Sales](https://img.shields.io/badge/SQL_Analysis-yellow)
+![BI](https://img.shields.io/badge/Business_Intelligence-purple)
+
+**Comprehensive Sales Insights** - SQL + MySQL + Power BI
+
+```bash
+📊 Features: Product Performance • Customer Segmentation • Regional Analysis
+```
+[🚀 View Project](https://github.com/AbdelmoughitASSAL/sales-analysis-2022)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<!-- GitHub Stats with Animation -->
+<div align="center">
+  
+| Language Distribution | Contribution Graph |
+|----------------------|-------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelmoughitASSAL&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelmoughitASSAL&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff) |
+| **Streak Stats** | **Trophy Case** |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdelmoughitASSAL&theme=radical&hide_border=true&background=0d1117) | ![Trophies](https://github-profile-trophy.vercel.app/?username=AbdelmoughitASSAL&theme=radical&no-frame=true&row=2&column=3) |
+
+</div>
+
+## 📬 Connect With Me
+
+<!-- Animated Contact Section -->
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Data%20With%20Purpose&fontSize=20&fontColor=fff)
+### 🌟 **Let's Collaborate on Data-Driven Solutions!**
+
+<p align="center">
+  <!-- Email with animation -->
+  <a href="mailto:abdelmoughit.assal@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Send_Message-6D4AFF?style=for-the-badge&logo=yahoo&logoColor=white&labelColor=black&animate=pulse" alt="Email" />
+  </a>
+  
+  <!-- LinkedIn with animation -->
+  <a href="https://www.linkedin.com/in/abdelmoughit-assal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&animate=bounce" alt="LinkedIn" />
+  </a>
+  
+  <!-- GitHub with animation -->
+  <a href="https://github.com/AbdelmoughitASSAL" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&animate=glow" alt="GitHub" />
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontAlign=70" />
+</p>
 
 </div>
 
 ---
 
+<!-- Animated Footer -->
 <div align="center">
+
+### 📚 **Currently Learning & Exploring**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=1000&color=757575&center=true&vCenter=true&width=600&lines=Last+Updated:+December+2025+•+Portfolio+continuously+evolving" alt="Footer update" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Cloud_Analytics-FF9900?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Analytics" />
+  <img src="https://img.shields.io/badge/Advanced_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Advanced SQL" />
 </p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AbdelmoughitASSAL/count.svg" alt="Visitor Count" />
+  <br/>
+  <sub>👁️ Thank you for visiting my profile!</sub>
+</p>
+
+<!-- Marquee Text -->
+<marquee direction="right" behavior="alternate" scrollamount="3">
+  <strong>🎯 Open to Data Analyst & Business Intelligence Opportunities | Available for Collaboration</strong>
+</marquee>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%" alt="Footer" />
+</p>
+
 </div>
