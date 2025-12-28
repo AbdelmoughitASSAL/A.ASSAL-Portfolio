@@ -83,24 +83,13 @@
 ---
 
 ## 🧭 Navigation
-<div align="center">
-  
-| Section | Navigation |
-|---------|------------|
-| **👤 Profile** | [→ About Me](#-about-me) |
-| **🎓 Education** | [→ Academic Background](#-education) |
-| **🛠️ Skills** | [→ Technical Stack](#-technical-expertise) |
-| **🚀 Projects** | [→ Portfolio Showcase](#-project-portfolio) |
-| **📬 Contact** | [→ Get in Touch](#-connect-with-me) |
-
-</div>
 
 <!-- Quick Navigation Links with Arrows -->
 <div align="center" style="margin: 30px 0;">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
     <a href="#-about-me" style="text-decoration: none;">
       <div style="
-        padding: 10px 20px;
+        padding: 12px 20px;
         background: rgba(88, 166, 255, 0.1);
         border-radius: 8px;
         border: 1px solid #30363d;
@@ -108,7 +97,8 @@
         transition: all 0.3s ease;
         display: flex;
         align-items: center;
-        gap: 8px;
+        gap: 10px;
+        font-weight: bold;
       " onmouseover="this.style.transform='translateY(-2px)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 4px 12px rgba(88, 166, 255, 0.2)'" 
          onmouseout="this.style.transform='translateY(0)'; this.style.borderColor='#30363d'; this.style.boxShadow='none'">
         <span>👤</span>
@@ -119,7 +109,7 @@
     
     <a href="#-education" style="text-decoration: none;">
       <div style="
-        padding: 10px 20px;
+        padding: 12px 20px;
         background: rgba(109, 74, 255, 0.1);
         border-radius: 8px;
         border: 1px solid #30363d;
@@ -127,7 +117,8 @@
         transition: all 0.3s ease;
         display: flex;
         align-items: center;
-        gap: 8px;
+        gap: 10px;
+        font-weight: bold;
       " onmouseover="this.style.transform='translateY(-2px)'; this.style.borderColor='#6D4AFF'; this.style.boxShadow='0 4px 12px rgba(109, 74, 255, 0.2)'" 
          onmouseout="this.style.transform='translateY(0)'; this.style.borderColor='#30363d'; this.style.boxShadow='none'">
         <span>🎓</span>
@@ -138,7 +129,7 @@
     
     <a href="#-technical-expertise" style="text-decoration: none;">
       <div style="
-        padding: 10px 20px;
+        padding: 12px 20px;
         background: rgba(255, 107, 107, 0.1);
         border-radius: 8px;
         border: 1px solid #30363d;
@@ -146,7 +137,8 @@
         transition: all 0.3s ease;
         display: flex;
         align-items: center;
-        gap: 8px;
+        gap: 10px;
+        font-weight: bold;
       " onmouseover="this.style.transform='translateY(-2px)'; this.style.borderColor='#FF6B6B'; this.style.boxShadow='0 4px 12px rgba(255, 107, 107, 0.2)'" 
          onmouseout="this.style.transform='translateY(0)'; this.style.borderColor='#30363d'; this.style.boxShadow='none'">
         <span>🛠️</span>
@@ -157,7 +149,7 @@
     
     <a href="#-project-portfolio" style="text-decoration: none;">
       <div style="
-        padding: 10px 20px;
+        padding: 12px 20px;
         background: rgba(251, 188, 5, 0.1);
         border-radius: 8px;
         border: 1px solid #30363d;
@@ -165,7 +157,8 @@
         transition: all 0.3s ease;
         display: flex;
         align-items: center;
-        gap: 8px;
+        gap: 10px;
+        font-weight: bold;
       " onmouseover="this.style.transform='translateY(-2px)'; this.style.borderColor='#FBBC05'; this.style.boxShadow='0 4px 12px rgba(251, 188, 5, 0.2)'" 
          onmouseout="this.style.transform='translateY(0)'; this.style.borderColor='#30363d'; this.style.boxShadow='none'">
         <span>🚀</span>
@@ -176,7 +169,7 @@
     
     <a href="#-connect-with-me" style="text-decoration: none;">
       <div style="
-        padding: 10px 20px;
+        padding: 12px 20px;
         background: rgba(52, 168, 83, 0.1);
         border-radius: 8px;
         border: 1px solid #30363d;
@@ -184,7 +177,8 @@
         transition: all 0.3s ease;
         display: flex;
         align-items: center;
-        gap: 8px;
+        gap: 10px;
+        font-weight: bold;
       " onmouseover="this.style.transform='translateY(-2px)'; this.style.borderColor='#34A853'; this.style.boxShadow='0 4px 12px rgba(52, 168, 83, 0.2)'" 
          onmouseout="this.style.transform='translateY(0)'; this.style.borderColor='#30363d'; this.style.boxShadow='none'">
         <span>📬</span>
@@ -199,8 +193,8 @@
 
 <div align="center">
   
-![Profile Banner](https://komarev.com/ghpvc/?username=AbdelmoughitASSAL&color=blue&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/AbdelmoughitASSAL?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=AbdelmoughitASSAL&color=blue&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/AbdelmoughitASSAL?style=social&label=Follow)
   
 </div>
 
@@ -255,9 +249,9 @@ analyst = DataAnalyst()
 
 ### 🛠️ Technical Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Expert" />
-  <img src="https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Advanced" />
-  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Expert" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Data_Analysis-Pandas_NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
 </p>
 
@@ -265,7 +259,7 @@ analyst = DataAnalyst()
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Advanced" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
