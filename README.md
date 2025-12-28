@@ -148,36 +148,94 @@ analyst = DataAnalyst()
 <!-- Animated Contact Section -->
 <div align="center">
 
-### 🌟 **Let's Collaborate on Data-Driven Solutions!**
+<h2 align="center" style="margin-bottom: 20px;">
+  <span style="
+    display: inline-block;
+    font-size: 1.8em;
+    background: linear-gradient(45deg, #58a6ff, #6D4AFF);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    position: relative;
+  ">
+    🚀 Let's Connect
+    <span style="
+      position: absolute;
+      right: -15px;
+      bottom: 5px;
+      font-size: 0.8em;
+      animation: blink 1s infinite;
+    ">|</span>
+  </span>
+</h2>
 
-<p align="center">
-  <!-- Email with animation -->
-  <a href="mailto:abdelmoughit.assal@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Send_Message-6D4AFF?style=for-the-badge&logo=yahoo&logoColor=white&labelColor=black&animate=pulse" alt="Email" />
-  </a>
+<div align="center">
+
+<!-- Compact Contact Grid -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; max-width: 500px; margin: 25px auto;">
   
-  <!-- LinkedIn with animation -->
-  <a href="https://www.linkedin.com/in/abdelmoughit-assal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&animate=bounce" alt="LinkedIn" />
+  <!-- Email -->
+  <a href="mailto:abdelmoughit.assal@yahoo.com" style="text-decoration: none;">
+    <div style="background: #0d1117; padding: 12px 20px; border-radius: 8px; 
+                border: 1px solid #30363d; transition: all 0.3s ease; width: 140px;"
+         onmouseover="this.style.borderColor='#6D4AFF'; this.style.transform='translateY(-2px)'"
+         onmouseout="this.style.borderColor='#30363d'; this.style.transform='translateY(0)'">
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <span style="color: #6D4AFF; font-size: 1.2em;">✉️</span>
+        <span style="color: #c9d1d9; font-size: 0.9em;">Email</span>
+      </div>
+    </div>
   </a>
-  
-  <!-- GitHub with animation -->
-  <a href="https://github.com/AbdelmoughitASSAL" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&animate=glow" alt="GitHub" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abdelmoughit-assal" target="_blank" style="text-decoration: none;">
+    <div style="background: #0d1117; padding: 12px 20px; border-radius: 8px; 
+                border: 1px solid #30363d; transition: all 0.3s ease; width: 140px;"
+         onmouseover="this.style.borderColor='#0077B5'; this.style.transform='translateY(-2px)'"
+         onmouseout="this.style.borderColor='#30363d'; this.style.transform='translateY(0)'">
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <span style="color: #0077B5; font-size: 1.2em;">💼</span>
+        <span style="color: #c9d1d9; font-size: 0.9em;">LinkedIn</span>
+      </div>
+    </div>
   </a>
-</p>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontAlign=70" />
-</p>
-
+  <!-- GitHub -->
+  <a href="https://github.com/AbdelmoughitASSAL" target="_blank" style="text-decoration: none;">
+    <div style="background: #0d1117; padding: 12px 20px; border-radius: 8px; 
+                border: 1px solid #30363d; transition: all 0.3s ease; width: 140px;"
+         onmouseover="this.style.borderColor='#58a6ff'; this.style.transform='translateY(-2px)'"
+         onmouseout="this.style.borderColor='#30363d'; this.style.transform='translateY(0)'">
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <span style="color: #58a6ff; font-size: 1.2em;">⚡</span>
+        <span style="color: #c9d1d9; font-size: 0.9em;">GitHub</span>
+      </div>
+    </div>
+  </a>
 </div>
 
----
+<!-- Status -->
+<div style="display: inline-flex; align-items: center; gap: 8px; margin: 20px 0; padding: 6px 12px;
+            background: rgba(88, 166, 255, 0.05); border-radius: 6px;">
+  <div style="width: 6px; height: 6px; background: #3fb950; border-radius: 50%;"></div>
+  <span style="color: #8b949e; font-size: 0.8em;">Open for opportunities</span>
+</div>
 
-<!-- Animated Footer -->
-<div align="center">
+<!-- Footer -->
+<div style="margin-top: 30px; padding-top: 15px; border-top: 1px solid #21262d;">
+  <p style="color: #484f58; font-size: 0.75em; text-align: center; margin: 0;">
+    © 2024 • Data Analytics
+  </p>
+</div>
+
+<style>
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+</style>
+
+</div>
 
 ### 📚 **Currently Learning & Exploring**
 <p align="center">
@@ -189,7 +247,7 @@ analyst = DataAnalyst()
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/AbdelmoughitASSAL/count.svg" alt="Visitor Count" />
-  <br/>
+  <br/>A
   <sub>👁️ Thank you for visiting my profile!</sub>
 </p>
 
