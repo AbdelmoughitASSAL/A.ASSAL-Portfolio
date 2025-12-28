@@ -1,6 +1,8 @@
 # ✨ Abdelmoughit ASSAL | Data Analyst & Business Intelligence Specialist
 
-> *Turning raw data into compelling stories and strategic insights*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6D4AFF&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+compelling+stories;Transforming+numbers+into+strategic+insights;Building+bridges+between+data+and+decisions" alt="Typing animation" />
+</p>
 
 ---
 
@@ -23,9 +25,12 @@ timeline
 
 <div align="center">
   
-| From Numbers | → | To Narratives | → | To Impact |
-|-------------|---|--------------|---|----------|
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=From+Numbers+→+To+Narratives+→+To+Impact" alt="Process animation" />
+</p>
+
 | 📊 Raw Data | 🔄 | 📈 Insights | 🔄 | 💡 Decisions |
+|-------------|---|--------------|---|----------|
 | 🎯 Business Questions | 🔄 | 🧠 Analysis | 🔄 | 🚀 Solutions |
 
 </div>
@@ -33,6 +38,10 @@ timeline
 ---
 
 ## 🎓 **Education Pathway**
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=From+Scientific+Foundation+to+Engineering+Excellence" alt="Education journey" />
+</p>
 
 | Institution | Degree | Year | Key Focus |
 |------------|--------|------|-----------|
@@ -58,6 +67,10 @@ graph LR
     style D fill:#64b5f6
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=FF9800&center=true&vCenter=true&width=400&lines=Always+Learning%2C+Always+Growing" alt="Learning motto" />
+</p>
+
 **Latest Achievement:**  
 ![Python for Data Science](https://img.shields.io/badge/CERTIFIED-Python_Data_Science-blue?style=for-the-badge&logo=python)
 [📜 View Certificate](https://coursera.org/share/983e3921c341ce3abeed69a864f0c7e0)
@@ -67,6 +80,10 @@ graph LR
 ---
 
 ## 🚀 **Featured Projects Showcase**
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=6D4AFF&center=true&vCenter=true&width=700&lines=Where+Data+Meets+Impact;Real+Projects%2C+Measurable+Results" alt="Projects intro" />
+</p>
 
 ### 🔍 **Project 1: HR Analytics Dashboard Suite**
 ```diff
@@ -83,7 +100,9 @@ graph LR
 
 </div>
 
-**Impact:** *Reduced HR report generation time by 70% while increasing insight depth*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Impact:+70%+faster+reporting+with+deeper+insights" alt="HR impact" />
+</p>
 
 ### 💹 **Project 2: Algorithmic Trading System**
 ```diff
@@ -92,7 +111,10 @@ graph LR
 
 <div align="center">
   
-**System Flow:**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=System+Flow:+Data→Risk→Sizing→Performance" alt="Trading flow" />
+</p>
+
 ```
 📈 Market Data → 🧠 Risk Analysis → ⚖️ Position Sizing → 📊 Performance Tracking
       ↓              ↓                  ↓                   ↓
@@ -101,7 +123,9 @@ graph LR
 
 </div>
 
-**Achievement:** *Developed a system that consistently outperformed fixed-position strategies*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Achievement:+Consistently+outperforms+fixed+strategies" alt="Trading achievement" />
+</p>
 
 ### 📊 **Project 3: Sales Intelligence Platform**
 ```diff
@@ -120,11 +144,17 @@ pie title Sales Analysis Dimensions
 
 </div>
 
-**Result:** *Identified 3 underperforming regions with 15% revenue growth potential*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Result:+Identified+15%+growth+potential+in+3+regions" alt="Sales result" />
+</p>
 
 ---
 
 ## 🛠️ **Technical Arsenal**
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=My+Tools+of+the+Trade" alt="Tools intro" />
+</p>
 
 <div align="center">
 
@@ -143,6 +173,10 @@ pie title Sales Analysis Dimensions
 ## 🌈 **My Analytical Philosophy**
 
 <div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=400&lines=From+Data+to+Impact:+My+Process" alt="Process philosophy" />
+</p>
 
 ```mermaid
 graph TB
@@ -165,6 +199,10 @@ graph TB
 ---
 
 ## 📬 **Let's Connect & Collaborate**
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1500&color=6D4AFF&center=true&vCenter=true&width=500&lines=Ready+to+Build+Something+Amazing%3F" alt="Connect invitation" />
+</p>
 
 <div align="center">
 
@@ -192,9 +230,9 @@ graph TB
 
 <div align="center">
 
-**🌟 Currently exploring:** Advanced ML applications in business intelligence  
-**🎯 Next goal:** Building real-time analytics pipelines  
-**📈 Metric I track:** Insights that turned into actions
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=700&lines=🌟+Exploring+Advanced+ML+in+Business+Intelligence;🎯+Building+Real-time+Analytics+Pipelines;📈+Tracking+Insights+That+Turn+Into+Actions" alt="Current focus" />
+</p>
 
 *"Not just analyzing data, but architecting understanding"*
 
@@ -206,6 +244,10 @@ graph TB
 <summary>📈 View Activity Metrics</summary>
 
 <br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=2196F3&center=true&vCenter=true&width=400&lines=Current+Development+Pulse" alt="Activity pulse" />
+</p>
 
 **Recent Project Activity:**
 ```bash
@@ -235,4 +277,6 @@ graph TB
 
 ---
 
-*Last Updated: March 2024 | Portfolio continuously evolving with new projects and insights*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=1000&color=757575&center=true&vCenter=true&width=600&lines=Last+Updated:+March+2024+•+Portfolio+continuously+evolving" alt="Footer update" />
+</p>
