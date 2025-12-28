@@ -151,19 +151,6 @@ The best way to demonstrate my skills is by completing concrete projects and sha
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Data+Visualization+%7C+Business+Intelligence+%7C+SQL+Queries;Dashboard+Development+%7C+Python+Automation+%7C+Statistical+Analysis;Power+BI+%7C+Tableau+%7C+Pandas+%7C+NumPy+%7C+Streamlit;Always+Learning+%7C+Always+Analyzing+%7C+Always+Growing" alt="Typing SVG" />
 </div>
 
-<!-- Animated contact links -->
-<p align="center">
-  <a href="https://github.com/AbdelmoughitASSAL" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdelmoughit-assal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdelmoughit.assal@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-6D4AFF?style=for-the-badge&logo=yahoomail&logoColor=white&labelColor=6D4AFF" alt="Email" />
-  </a>
-</p>
-
 <!-- Animated statistics with pulse effect -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelmoughitASSAL&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="animation: pulse 2s infinite;" />
