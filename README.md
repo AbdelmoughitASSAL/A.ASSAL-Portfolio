@@ -1,7 +1,7 @@
 # ✨ Abdelmoughit ASSAL | Data Analyst & Business Intelligence Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6D4AFF&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+compelling+stories;Transforming+numbers+into+strategic+insights;Building+bridges+between+data+and+decisions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6D4AFF&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+compelling+stories;Transforming+numbers+into+strategic+insights;Building+bridges+between+data+and+decisions" alt="Typing animation" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ timeline
 <div align="center">
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=From+Numbers+→+To+Narratives+→+To+Impact" alt="Process animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=From+Numbers+→+To+Narratives+→+To+Impact" alt="Process animation" />
 </p>
 
 | 📊 Raw Data | 🔄 | 📈 Insights | 🔄 | 💡 Decisions |
@@ -39,9 +39,11 @@ timeline
 
 ## 🎓 **Education Pathway**
 
+<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=From+Scientific+Foundation+to+Engineering+Excellence" alt="Education journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=From+Scientific+Foundation+to+Engineering+Excellence" alt="Education journey" />
 </p>
+</div>
 
 | Institution | Degree | Year | Key Focus |
 |------------|--------|------|-----------|
@@ -68,7 +70,7 @@ graph LR
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=FF9800&center=true&vCenter=true&width=400&lines=Always+Learning%2C+Always+Growing" alt="Learning motto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=FF9800&center=true&vCenter=true&width=400&lines=Always+Learning%2C+Always+Growing" alt="Learning motto" />
 </p>
 
 **Latest Achievement:**  
@@ -81,9 +83,11 @@ graph LR
 
 ## 🚀 **Featured Projects Showcase**
 
+<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=6D4AFF&center=true&vCenter=true&width=700&lines=Where+Data+Meets+Impact;Real+Projects%2C+Measurable+Results" alt="Projects intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=6D4AFF&center=true&vCenter=true&width=700&lines=Where+Data+Meets+Impact;Real+Projects%2C+Measurable+Results" alt="Projects intro" />
 </p>
+</div>
 
 ### 🔍 **Project 1: HR Analytics Dashboard Suite**
 ```diff
@@ -100,9 +104,11 @@ graph LR
 
 </div>
 
+<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Impact:+70%+faster+reporting+with+deeper+insights" alt="HR impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Impact:+70%+faster+reporting+with+deeper+insights" alt="HR impact" />
 </p>
+</div>
 
 ### 💹 **Project 2: Algorithmic Trading System**
 ```diff
@@ -112,7 +118,7 @@ graph LR
 <div align="center">
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=System+Flow:+Data→Risk→Sizing→Performance" alt="Trading flow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=System+Flow:+Data→Risk→Sizing→Performance" alt="Trading flow" />
 </p>
 
 ```
@@ -123,9 +129,11 @@ graph LR
 
 </div>
 
+<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Achievement:+Consistently+outperforms+fixed+strategies" alt="Trading achievement" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Achievement:+Consistently+outperforms+fixed+strategies" alt="Trading achievement" />
 </p>
+</div>
 
 ### 📊 **Project 3: Sales Intelligence Platform**
 ```diff
@@ -144,17 +152,21 @@ pie title Sales Analysis Dimensions
 
 </div>
 
+<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Result:+Identified+15%+growth+potential+in+3+regions" alt="Sales result" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=4CAF50&center=true&vCenter=true&width=500&lines=Result:+Identified+15%+growth+potential+in+3+regions" alt="Sales result" />
 </p>
+</div>
 
 ---
 
 ## 🛠️ **Technical Arsenal**
 
+<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=My+Tools+of+the+Trade" alt="Tools intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=My+Tools+of+the+Trade" alt="Tools intro" />
 </p>
+</div>
 
 <div align="center">
 
@@ -175,7 +187,7 @@ pie title Sales Analysis Dimensions
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=400&lines=From+Data+to+Impact:+My+Process" alt="Process philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=400&lines=From+Data+to+Impact:+My+Process" alt="Process philosophy" />
 </p>
 
 ```mermaid
@@ -200,9 +212,11 @@ graph TB
 
 ## 📬 **Let's Connect & Collaborate**
 
+<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1500&color=6D4AFF&center=true&vCenter=true&width=500&lines=Ready+to+Build+Something+Amazing%3F" alt="Connect invitation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1500&color=6D4AFF&center=true&vCenter=true&width=500&lines=Ready+to+Build+Something+Amazing%3F" alt="Connect invitation" />
 </p>
+</div>
 
 <div align="center">
 
@@ -231,7 +245,7 @@ graph TB
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=700&lines=🌟+Exploring+Advanced+ML+in+Business+Intelligence;🎯+Building+Real-time+Analytics+Pipelines;📈+Tracking+Insights+That+Turn+Into+Actions" alt="Current focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=700&lines=🌟+Exploring+Advanced+ML+in+Business+Intelligence;🎯+Building+Real-time+Analytics+Pipelines;📈+Tracking+Insights+That+Turn+Into+Actions" alt="Current focus" />
 </p>
 
 *"Not just analyzing data, but architecting understanding"*
@@ -245,9 +259,11 @@ graph TB
 
 <br>
 
+<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=2196F3&center=true&vCenter=true&width=400&lines=Current+Development+Pulse" alt="Activity pulse" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=500&color=2196F3&center=true&vCenter=true&width=400&lines=Current+Development+Pulse" alt="Activity pulse" />
 </p>
+</div>
 
 **Recent Project Activity:**
 ```bash
@@ -277,6 +293,8 @@ graph TB
 
 ---
 
+<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=1000&color=757575&center=true&vCenter=true&width=600&lines=Last+Updated:+March+2024+•+Portfolio+continuously+evolving" alt="Footer update" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=1000&color=757575&center=true&vCenter=true&width=600&lines=Last+Updated:+December+2025+•+Portfolio+continuously+evolving" alt="Footer update" />
 </p>
+</div>
