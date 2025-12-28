@@ -195,7 +195,7 @@ The best way to demonstrate my skills is by completing concrete projects and sha
     from { opacity: 0; }
     to { opacity: 1; }
   }
-  
+
   .animated-footer {
     animation: fadeIn 2s ease-in-out;
   }
