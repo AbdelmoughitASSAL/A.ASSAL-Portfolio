@@ -98,7 +98,7 @@ The best way to demonstrate my skills is by completing concrete projects and sha
 ---
 
 ### **Sales Performance Analysis 2022** - SQL & Business Intelligence
-**📁 Code**: [Sales Analysis 2022](https://github.com/AbdelmoughitASSAL/Trading-Automatise-Money-Management)
+**📁 Code**: [Sales Analysis 2022](https://github.com/AbdelmoughitASSAL/Sales_Analysis_2022_SQL)
 
 **🔍 Challenge**: Businesses need to identify sales patterns, customer behaviors, and regional performance gaps from transactional data to optimize revenue strategies and resource allocation.
 
